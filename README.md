@@ -1,6 +1,6 @@
-#**Advanced Digital Design**
+# **Advanced Digital Design**
 
-##**Overview**
+## **Overview**
 
 In this project you will build a simple part of a microprocessor. Firstly, you will build two main blocks:
 the ALU and the register file, then you will connect them together and run a simple machine code
